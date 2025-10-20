@@ -1,1 +1,1 @@
-This is a food attendace management webapplication build usin jsp
+This is a food attendace management webapplication build using jsp
